@@ -1,0 +1,11 @@
+C:\dev\CalculatorPlugin\Core\Core\Core\bin\Debug\Core.dll
+C:\dev\CalculatorPlugin\Core\Core\Core\bin\Debug\Core.pdb
+C:\dev\CalculatorPlugin\Core\Core\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\dev\CalculatorPlugin\Core\Core\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\dev\CalculatorPlugin\Core\Core\Core\obj\Debug\Core.dll
+C:\dev\CalculatorPlugin\Core\Core\Core\obj\Debug\Core.pdb
+C:\dev\calculatorpluginsample\core\bin\Debug\Core.dll
+C:\dev\calculatorpluginsample\core\bin\Debug\Core.pdb
+C:\dev\calculatorpluginsample\core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\dev\calculatorpluginsample\core\obj\Debug\Core.dll
+C:\dev\calculatorpluginsample\core\obj\Debug\Core.pdb

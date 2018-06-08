@@ -1,0 +1,9 @@
+C:\Users\mbaykal\Documents\Visual Studio 2015\Projects\PoEA\PluginA\bin\Debug\PluginA.dll
+C:\Users\mbaykal\Documents\Visual Studio 2015\Projects\PoEA\PluginA\bin\Debug\PluginA.pdb
+C:\Users\mbaykal\Documents\Visual Studio 2015\Projects\PoEA\PluginA\bin\Debug\PluginCore.dll
+C:\Users\mbaykal\Documents\Visual Studio 2015\Projects\PoEA\PluginA\bin\Debug\PluginCore.pdb
+C:\Users\mbaykal\Documents\Visual Studio 2015\Projects\PoEA\PluginA\obj\Debug\PluginA.csprojResolveAssemblyReference.cache
+C:\Users\mbaykal\Documents\Visual Studio 2015\Projects\PoEA\PluginA\obj\Debug\PluginA.dll
+C:\Users\mbaykal\Documents\Visual Studio 2015\Projects\PoEA\PluginA\obj\Debug\PluginA.pdb
+C:\Users\mbaykal\Documents\Visual Studio 2015\Projects\PoEA\PluginA\obj\Debug\PluginA.UserControl1.resources
+C:\Users\mbaykal\Documents\Visual Studio 2015\Projects\PoEA\PluginA\obj\Debug\PluginA.csproj.GenerateResource.Cache
